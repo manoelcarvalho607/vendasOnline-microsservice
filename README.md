@@ -1,4 +1,4 @@
-# proejto mod42 
+# projeto mod42 
 ## vendasOnline-microsservice
 - microsservice
 - spring
